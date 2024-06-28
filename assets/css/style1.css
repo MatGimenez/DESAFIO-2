@@ -81,11 +81,13 @@ main h2{
 .servicios td h3{
     margin: 0;
     font-size:2em;
+    font-weight: 1000;
     color: #3AA6B9;
 }
 .servicios td h4{
     margin: 10px;
     font-size: 1.5em;
+    font-weight: 500;
     color: #64CCC5;
 }
 .servicios td h5{
