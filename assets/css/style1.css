@@ -84,7 +84,7 @@ main h2{
     color: #3AA6B9;
 }
 .servicios td h4{
-    margin: 0;
+    margin: 10px;
     font-size: 1.5em;
     color: #64CCC5;
 }
@@ -94,6 +94,12 @@ main h2{
     font-size: 1em;
     background-color: #CBEDD5;
     border: 1px solid #577D86;
+}
+.servicios td p{
+    padding: 1em;
+    font-size: 1em;
+    font-weight: 700;
+    color: #839AA8;
 }
 .Oferta{
     font-size:0.85em;
